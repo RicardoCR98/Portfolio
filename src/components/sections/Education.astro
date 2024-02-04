@@ -4,7 +4,7 @@ import Section from "@/components/Sections.astro"
 import { education } from "@cv"
 ---
 
-<Section title="Educación">
+<Section title="Educación" tabindex="0">
   <ul>
     {
       education.map(({ institution, startDate, endDate, area }) => {
@@ -14,7 +14,7 @@ import { education } from "@cv"
         const years = `${startYear} - ${endYear}`
 
         return (
-          <li>
+          <li tabindex="0">
             <article>
               <header>
                 <div>

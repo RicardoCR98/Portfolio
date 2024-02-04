@@ -27,9 +27,9 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 <Section>
   <div class="container">
     <div class="info">
-      <h1>{name}</h1>
-      <h2>{label}</h2>
-      <span>
+      <h1 tabindex="0">{name}</h1>
+      <h2 tabindex="0">{label}</h2>
+      <span tabindex="0">
         <WorldMap />
         {city}, {region}
       </span>
@@ -80,7 +80,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
       </footer>
     </div>
     <figure>
-      <img src={image} alt={name} />
+      <img src={image} alt={name} tabindex="0" />
     </figure>
   </div>
 </Section>

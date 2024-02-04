@@ -3,12 +3,12 @@ import Section from '@/components/Sections.astro'
 import { skills } from '@cv'
 ---
 
-<Section title="Skills">
+<Section title="Skills" >
     <ul>
         {
             skills.map(({name}) =>(
                 <li>
-                    <span>{name}</span>
+                    <span tabindex="0">{name}</span>
                 </li>
             ))
         }
