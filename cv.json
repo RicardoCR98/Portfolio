@@ -1,0 +1,292 @@
+{
+    "basics": {
+      "name": "Gary Ricardo Campaña Ramírez",
+      "label": "Estudiante de ingeniería de software",
+      "image": "https://avatars.githubusercontent.com/u/119013414?v=4",
+      "email": "gary.campana@epn.edu.ec",
+      "phone": "0978683525",
+      "summary": "Estudiante de la carrera de Ingeniería de software de la Escuela Politécnica Nacional, donde he podido desarrollar un nivel de compromiso y organización a fin de poder compatibilizar mis estudios con diferentes proyectos y actividades complementarias.",
+      "location": {
+        "address": "La armenia",
+        "postalCode": "170803",
+        "city": "Quito",
+        "countryCode": "EC",
+        "region": "Pichincha"
+      },
+      "profiles": [
+      {
+        "network": "GitHub",
+        "username": "RicardoCR98",
+        "url": "https://github.com/RicardoCR98"
+      },
+      {
+        "network": "X",
+        "username": "_rickykam",
+        "url": "https://X.com/_rickykam"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Ricardo Campaña",
+        "url": "https://linkedin.com/in/rickykam4"
+      }
+    ]
+    },
+    "work": [
+      {
+        "name": "midudev",
+        "position": "Divulgador sobre Programación Web",
+        "url": "https://twitch.tv/midudev",
+        "startDate": "2021-01-01",
+        "endDate": null,
+        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Adevinta",
+        "position": "Lead Frontend Architect",
+        "url": "https://twitch.tv/midudev",
+        "startDate": "2016-06-01",
+        "endDate": "2022-09-01",
+        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Hubii",
+        "position": "Senior FrontEnd Developer",
+        "startDate": "2011-03-01",
+        "endDate": "2016-05-01",
+        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ],
+    "volunteer": [{
+      "organization": "LABORATORIO DE SISTEMAS DE INFORMACIÓN E INCLUSIÓN DIGITAL - LUDOLAB",
+      "position": "Servicio comunitario",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Proyecto de Inclusión Digital: Democratización del acceso a las TIC para grupos de atención prioritaria"
+    }],
+    "education": [
+      {
+      "institution": "Escuela Politécnica Nacional",
+      "url": "https://www.epn.edu.ec/",
+      "area": "Ingeniería de Software",
+      "studyType": "Bachelor",
+      "startDate": "2021-02-01",
+      "endDate": null,
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Escuela Politécnica Nacional",
+      "url": "https://www.epn.edu.ec/",
+      "area": "Ingeniería electrónica y automatización",
+      "studyType": "Bachelor",
+      "startDate": "2017-02-01",
+      "endDate": "2021-02-01",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    },
+    {
+      "institution": "Óscar Efrén Reyes",
+      "url": "https://www.epn.edu.ec/",
+      "area": "Ciencias",
+      "studyType": "Bachillerato en Ciencias",
+      "startDate": "2015-01-01",
+      "endDate": "2017-07-27",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Instituto Salesianos de Carabanchel",
+      "url": "https://www.salesianoscarabanchel.com/",
+      "area": "Secundaria",
+      "studyType": "Secundaria",
+      "startDate": "2013-01-01",
+      "endDate": "2014-07-27",
+      "courses": [
+      ]
+    }
+  ],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Avanzado",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "SQLServer",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+      {
+        "name": "Next.js",
+        "level": "Medio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Medio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+    {
+      "language": "Español",
+      "fluency": "Hablante nativo"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Avanzado"
+    },
+    {
+      "language": "Francés",
+      "fluency": "Básico"
+    }
+  ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Gestor de Tareas",
+        "isActive": true,
+        "description": "Desarrollé una aplicación web para la gestión de tareas personales usando html, css y Java",
+        "highlights": [
+          "Java Web",
+          "MVC",
+          "CRUD"
+        ],
+        "url":"",
+        "github": "https://github.com/RicardoCR98/Sistema-de-Tareas-MVC"
+      },
+      {
+        "name": "Sistema de contabilidad",
+        "isActive": true,
+        "description": "Desarrollé una aplicación Web para la gestión de finanzas personales usando html, css, JavaScript para el frontend y Java para el backend",
+        "highlights": [
+          "Java Web",
+          "MVC",
+          "CRUD"
+        ],
+        "url":"",
+        "github": "https://github.com/RicardoCR98/Sistema_Contabilidad"
+      },
+      {
+        "name": "Gestión de Veterinaria",
+        "isActive": true,
+        "description": "Desarrollé una aplicación de escritorio para gestionar información de una veterinaria",
+        "highlights": [
+          "C#",
+          "MVC",
+          "CRUD"
+        ],
+        "url":"",
+        "github": "https://github.com/RicardoCR98/Sistema-de-gestion-Veterinaria"
+      },
+      {
+        "name": "Algoritmo de Encriptación",
+        "isActive": false,
+        "description": "Desarrollé un algoritmo de encriptación de archivos con contraseña",
+        "highlights": [
+          "C#",
+          "Seguridad"
+        ],
+        "url":"",
+        "github": "https://github.com/RicardoCR98/Algoritmo-de-Encriptacion"
+      }
+    ]
+  }
