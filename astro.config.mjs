@@ -1,7 +1,5 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: {
-    baseUrl: '/Portfolio',
-  },
+  site: 'https://RicardoCR98.github.io/Portfolio',
 });
